@@ -6,6 +6,8 @@ This repo main use is for me to adopt best Git practices. 🔍
 
 ## Visual Examples
 Below are a few examples:
-- ![Image 1](images/img1.png) — Basic image representation.
-- ![Image 2](images/img2.jpg) — Example of filtering.
-- ![Image 3](images/img3.jpg) — Overview of edge detection.
+- ![Image 1](images/img1.png)
+
+- ![Image 2](images/img2.jpg)
+
+- ![Image 3](images/img3.jpg)
