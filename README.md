@@ -5,9 +5,9 @@ Welcome to the **Image Processing and Computer Vision** repo! This is my playgro
 This repo main use is for me to adopt best Git practices. 🔍
 
 ## Visual Examples
-Below are a few examples:
-- ![Image 1](images/img1.png)
 
-- ![Image 2](images/img2.jpg)
-
-- ![Image 3](images/img3.jpg)
+<p align="center">
+  <img src="images/example1.png" width="300" alt="Example 1">
+  <img src="images/example2.png" width="300" alt="Example 2">
+  <img src="images/example3.png" width="300" alt="Example 3">
+</p>
