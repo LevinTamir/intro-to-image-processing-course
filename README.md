@@ -7,7 +7,7 @@ This repo main use is for me to adopt best Git practices. 🔍
 ## Visual Examples
 
 <p align="center">
-  <img src="images/example1.png" width="300" alt="Example 1">
-  <img src="images/example2.png" width="300" alt="Example 2">
-  <img src="images/example3.png" width="300" alt="Example 3">
+  <img src="images/img1.png" width="300" alt="Example 1">
+  <img src="images/img2.jpg" width="300" alt="Example 2">
+  <img src="images/img3.jpg" width="300" alt="Example 3">
 </p>
